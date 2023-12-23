@@ -1,0 +1,2 @@
+# Psuedokodinl-mning
+Psuedo code
